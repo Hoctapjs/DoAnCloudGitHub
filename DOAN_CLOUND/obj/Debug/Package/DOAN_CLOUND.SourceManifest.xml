@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\DOAN_LOUD_GITHUB (1)\DOAN_LOUD_GITHUB\DoAnCloud\DOAN_CLOUND\obj\Debug\Package\PackageTmp" />
+  <setAcl path="D:\DOAN_LOUD_GITHUB (1)\DOAN_LOUD_GITHUB\DoAnCloud\DOAN_CLOUND\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="D:\DOAN_LOUD_GITHUB (1)\DOAN_LOUD_GITHUB\DoAnCloud\DOAN_CLOUND\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
